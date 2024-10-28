@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClient", "TcpClient\TcpClient.csproj", "{CE63FB6D-1044-4648-BA80-9B53EB2309CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpServer", "TcpServer\TcpServer.csproj", "{0874DB60-5E00-4E42-9AC4-61058C7AD3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpLibrary", "TcpLibrary\TcpLibrary.csproj", "{D124C8F6-09C1-444C-9C32-B539D3B8D461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE63FB6D-1044-4648-BA80-9B53EB2309CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE63FB6D-1044-4648-BA80-9B53EB2309CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE63FB6D-1044-4648-BA80-9B53EB2309CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE63FB6D-1044-4648-BA80-9B53EB2309CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0874DB60-5E00-4E42-9AC4-61058C7AD3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0874DB60-5E00-4E42-9AC4-61058C7AD3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0874DB60-5E00-4E42-9AC4-61058C7AD3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0874DB60-5E00-4E42-9AC4-61058C7AD3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D124C8F6-09C1-444C-9C32-B539D3B8D461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D124C8F6-09C1-444C-9C32-B539D3B8D461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D124C8F6-09C1-444C-9C32-B539D3B8D461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D124C8F6-09C1-444C-9C32-B539D3B8D461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E11619-2585-4AD4-B3DE-D87F006AFFC6}
+	EndGlobalSection
+EndGlobal
